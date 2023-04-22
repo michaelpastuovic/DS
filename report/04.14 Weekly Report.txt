@@ -1,0 +1,29 @@
+04.14 Weekly Report
+
+
+Kaggle:
+
+For this week, we started out by creating a relatively straight forward Random Forest Regressor model.
+
+We had issues figuring out the specifics on the parameters of the model, such as the number of estimators, the maximum number of features, etc. We ended up landing on 500 estimators and setting max features to 4. We then submitted the predictions using this model to get an idea of how far off we were from Krish's submission.
+
+Next week, we would like to get a better idea of where we stand in terms of prediction score on Kaggle. We would also like to test out more refined ways of tuning our model. Perhaps we will use GridSearchCV from scikit learn.
+
+
+My CHI:
+
+Cleaning
+
+-Create the file and bring in our CSV
+-Addressed any and all outstanding errors
+
+Data Viz
+
+-Use basic visualization tools to grasp understand of the data types and makeups
+-Identification of categorical vars and create dummy vars as necessary
+-Use simple functions such as .describe(), .groupby(), etc for basic understanding
+
+Product
+-Each group member will go through this process on there own
+-We will have ability to compare our findings and square on results as we head into next week
+-Come with brainstormed future ideas for formal modeling of data

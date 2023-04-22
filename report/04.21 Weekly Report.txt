@@ -1,0 +1,32 @@
+04.21 Weekly Report
+
+
+Kaggle:
+
+For this week, we decided to try out XGBoost as an alternative way to create a model to predict the data.
+
+As mentioned last, we tried a more refined way of tuning the parameters of the model using GridSearchCV. For XGBoost specifically, we tried tuning maximum depth, learning rate, lambeda (regularization term), and number of estimators. We tried fitting 5 folds for 54 candidates each, but it took too long for this code to run. As a result, we were not able to make any meaningful progress when it came to tuning our parameters. 
+
+For next week, we will probably go to office hours in order to seek advice on how to tune our parameters more efficiently. Along with XGBoost, we may also eventually consider ensemble modeling so that we can improve our model using several differently tools.
+
+
+My CHI: 
+
+Addressed some null values and miscellaneous problems
+Removing empty rows, null columns, etc. 
+Grouped data by various factor (cost, geographic area, program type) 
+Cleaned column names for consistency
+Removed random punctuation and other discrepancies
+Split data into In-person and Zoom sessions as instructed
+Explored correlation between variables
+
+Visualization
+
+Discussed and experimented with some plots
+Scatterplots of several variables to assess magnitude and spread of data
+Boxplots for viewing variables grouped by program and area
+
+Future plans:
+Individual feature engineering efforts to compare and discuss
+Many variables so will likely take significant effort on everyone’s part to investigate thoroughly
+Making more concrete and fleshed out visualizations for presentation rather than exploratory 
