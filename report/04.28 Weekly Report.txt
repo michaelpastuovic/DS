@@ -1,0 +1,19 @@
+﻿Progress
+
+
+* In our weekly out-of-class team meeting, we reviewed previous work to ensure each group member was on the same page
+* Squared on analysis of visualizations created, spoke about how they may guide our future efforts
+* Began preliminary tuning of machine learning tools including Adaboost, Random Forest, ensemble modeling
+
+
+Issues
+* Vast number of variables so running our models does take significant time
+* Some difficulty having an intuitive understanding of what the model is doing/saying given the extremely large data set
+
+
+Future Plans
+* Create realistic goals regarding the overall strength of our modeling process while continuing to look for the potential to improve
+* This week we will undertake creating a PowerPoint deck for the upcoming presentation and prepare our statements
+
+
+Overall, we are happy with the progress we are making to this point and are looking forward to staying on track this coming week.
